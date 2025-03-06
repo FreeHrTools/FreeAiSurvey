@@ -1,5 +1,5 @@
 # FreeAiSurvey问卷软件
-问卷软件，在线问卷，问卷设计，数据收集，数据分析，问卷模板，用户调查，市场研究，客户满意度调查！!
+问卷软件，在线问卷，问卷设计，数据收集，数据分析，问卷模板，用户调查，市场研究，客户满意度调查!!!
 
 # FreeAiSurvey基本功能
 
@@ -46,13 +46,14 @@
 # 2025.03.06最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
-- 官方WeChat:David_Li_Haiya
+- 官方WeChat:扫码下侧的企业微信二维码即可（可对公签合同，更有保障）
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
-![image](https://github.com/user-attachments/assets/7d71e45b-444a-4adf-a564-cf761b34a729)
+- Email:leehear@gmail.com
+
+![easyaicc-企业微信二维码](https://github.com/user-attachments/assets/3dec9063-5494-43ab-93ca-3c54a403f0eb)
 
 # FreeAiSurvey关于源码与付费
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！
 
-# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！!
+# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
